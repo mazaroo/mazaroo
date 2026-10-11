@@ -1,5 +1,4 @@
 <!-- Troque SEU_USUARIO pelo seu usuário do GitHub (aparece 2 vezes, na seção Estatísticas) --> <h1 align="center">Oi! Sou o Pedro Mazaro! 👋</h1> <p align="center"> <b>💻 Desenvolvedor FullStack</b> &nbsp;|&nbsp; 🎓 Análise e Desenvolvimento de Sistemas - Unoeste </p> <p align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdkNzBxbmd2ZTBudDcwNGk5YTZsOXdxaDhsM2o5bzluZ2JibW1lZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WTcuWi43ePwZHzaGuO/giphy.gif" height="160" alt="gavião" /> </p>
-🧑‍💻 Sobre mim
 🎓 Cursando Análise e Desenvolvimento de Sistemas na Unoeste
 💻 Desenvolvedor FullStack em formação, construindo projetos do front ao back
 🌱 Sempre aprendendo e colocando em prática o que estudo na faculdade
