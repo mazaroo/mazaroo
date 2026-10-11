@@ -1,6 +1,4 @@
-<!-- Troque SEU_USUARIO pelo seu usuário do GitHub (aparece 2 vezes mais abaixo) --> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=A855F7&vCenter=true&width=650&height=60&lines=Oi!+Sou+o+Pedro+Mazaro!" " />
 Oi! Sou o Pedro Mazaro!
-
 💻 Desenvolvedor FullStack
 
 Atualmente, estou cursando:
